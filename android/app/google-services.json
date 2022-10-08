@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999529726797",
+    "project_id": "quikgo-6aaa7",
+    "storage_bucket": "quikgo-6aaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999529726797:android:345472e0bf5f89344cad04",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999529726797-mevbadnmll3nso0d6hjap9kscbqjt09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hHzLzysca-R2ZrudqiT3yGgwrYdTZWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999529726797-mevbadnmll3nso0d6hjap9kscbqjt09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
